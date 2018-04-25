@@ -11,7 +11,7 @@ $ npm install
 ```sh
 $ npm start
 ```
-and 
+and start json-server
 
 ```sh
 $ npm run json-server
